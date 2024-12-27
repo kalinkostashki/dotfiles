@@ -6,18 +6,18 @@ setup for the current .dotfiles that are in place in this repository.
 
 ## Dotfiles
 
-Just clone the repository
+Just clone the repository.
 
 ## Dependencies
 
-Nerd Fonts:
+### Nerd Fonts:
 
 https://www.jetbrains.com/lp/mono/
 
 NOTE: Wezterm does provide JetBrains Nerd Fonts by defualt.
 But terminal emulators are always subject to change.
 
-Ubuntu based systems(native packages):
+### Ubuntu based systems(native packages):
 
 ***
 sudo apt install stow zsh wezterm
