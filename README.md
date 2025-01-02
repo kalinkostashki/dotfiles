@@ -12,21 +12,19 @@ Just clone the repository.
 
 ### Nerd Fonts:
 
-https://www.jetbrains.com/lp/mono/
+[JetBrains Official Download Page](https://www.jetbrains.com/lp/mono/)
 
 NOTE: Wezterm does provide JetBrains Nerd Fonts by defualt.
 But terminal emulators are always subject to change.
 
 ### Ubuntu based systems(native packages):
 
-***
+```bash
 sudo apt install stow zsh wezterm
-***
+```
 
 Starship:
 
-***
+```bash
 curl -sS https://starship.rs/install.sh | sh
-***
-
-
+```

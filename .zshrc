@@ -112,4 +112,8 @@ alias update="sudo apt update && sudo apt upgrade"
 # Enable k3d completion
 autoload -U compinit; compinit
 
+# Deno Path setup
+. "/home/kalin/.deno/env"
+
 eval "$(starship init zsh)"
+
